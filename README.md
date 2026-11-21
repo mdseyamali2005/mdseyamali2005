@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Banner -->
-<img src="./SEYAM_banner_PERFECT_frame_fit.png" alt="Md Seyam Ali Banner" width="100%" />
+<img src="./banner.webp" alt="Md Seyam Ali Banner" width="100%" />
 
 <br/>
 
